@@ -1,0 +1,31 @@
+---
+layout: page
+permalink: /bwr/
+excerpt: ""
+---
+
+{% assign selection = site.content | where_exp:"post","post.title != page.title" | where_exp:"post","post.path contains page.selectionString" | sort: "order"%}
+{% assign prev_category = "" %}
+
+{% for post in selection %}
+    {% assign split_path = post.path | split: "/" %}
+
+    {% if prev_category != split_path[2] %}
+        {% assign prev_category = split_path[2] %}
+        {% if forloop.first == false %}
+            </ul>
+        {% endif %}
+        <h2 class="c-archives__year" id="{{ this_year }}-ref">{{ prev_category | capitalize }}</h2>
+        <ul class="c-archives__list">
+    {% endif %}
+
+        <li class="c-archives__item">
+            <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+            <p>{{ page.selectionString | upcase }}-{{ post.ref }}</p>
+            <div style="margin-top: 10px"><p>{{ post.excerpt }}</p></div>
+        </li>
+
+    {% if forloop.last %}
+        </ul>
+    {% endif %}
+{% endfor %}
