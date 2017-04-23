@@ -14,7 +14,7 @@ excerpt: >
 
 Dabei handelt es sich um eine typische Aufgabe, welche allerdings relativ einfach gelöst werden kann, sofern man sich die Eigenschaften der variablen und fixen Kosten nochmals vor Augen führt.
 > Variable Kosten nehmen mit der Produktionsmenge zu. Fixkosten fallen unabhängig davon immer in gleicher Höhe an.  
-> <cite>[Variable und fixe Kosten](/bwr/teilkostenrechnung/1-intro/)</cite>
+> <cite>[Variable und fixe Kosten](/abi/bwr/teilkostenrechnung/1-intro/)</cite>
 
 
 # Bestimmung der variablen Kosten
