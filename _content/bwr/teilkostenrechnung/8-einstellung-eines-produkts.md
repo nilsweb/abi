@@ -1,5 +1,5 @@
 ---
-title: Einsetllung eines Produkts
+title: Einstellung eines Produkts
 date: 2017-04-22
 ref: TKR-8
 order: 8
