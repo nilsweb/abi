@@ -7,21 +7,27 @@
 body
     +ff--sans-serif
     font-size: 12px
-    color: rgba($c__black, .8)    
+    color: rgba($c__black, .8)
     font-weight: 300
     padding: 0 1cm
 
 .c-header__title
     font-size: 22px
     color: rgba($c__black, .7)
-    
+
     &:after
         display: block
         content: ""
         margin-top: 5px
         border-bottom: 1px solid rgba(#515862, 0.5)
 
-nav, footer
+footer
+    margin-top: 50px
+    height: auto
+    text-align: right
+    font-style: italic
+
+nav, footer .social
     display: none
 
 article
@@ -72,7 +78,7 @@ article
 
     sup
         line-height: 0
-        
+
         a.footnote
             text-decoration: none
             font-size: 7px
