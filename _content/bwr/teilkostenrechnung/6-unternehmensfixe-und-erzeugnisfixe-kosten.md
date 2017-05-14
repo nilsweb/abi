@@ -35,7 +35,7 @@ $$ K_f = K_{fE} + K_{fU} $$
 >
 > <br>
 > Zusätzlich fallen noch 12.000,00 € unternehmensfixe Kosten an.
-> Ermitteln Sie die Höhe der erzegnisfixen Kosten.
+> Ermitteln Sie die Höhe der erzeugnisfixen Kosten.
 
 Dazu ist es wichtig zu wissen, dass sich die Prozentangaben auf die gesamten Fixkosten $$ K_f $$ beziehen. Daher müssen diese zuerst ermittelt werden. Wir wissen ebenfalls, dass die gesamten erzeugnisfixen Kosten dabei 75% der Fixkosten ausmachen ($$ 50 \% + 20 \% + 5 \% = 75 \% $$). Unsere unternehmensfixen Kosten betragen somit 25% der fixen Kosten. Mit Hilfe einer einfachen Dreisatzrechnung lassen sich somit die gesamten Fixkosten ermitteln:
 

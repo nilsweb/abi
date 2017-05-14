@@ -5,7 +5,7 @@ ref: TKR-5
 order: 5
 ---
 
-Unter dem Break Even Point (Gewinnschwellenmenge) versteht man die Produktionsmenge, ab der das Unternehmen erstmals Gewinn erziehlen kann.
+Unter dem Break Even Point (Gewinnschwellenmenge) versteht man die Produktionsmenge, ab der das Unternehmen erstmals Gewinn erzielen kann.
 Der Break Even Umsatz (Gewinnschwellenumsatz) beschreibt dabei die Erlöse, welche bei dieser Produktionsmenge eingenommen werden können.
 
 > **Aufgabe**  
@@ -23,12 +23,12 @@ Um jetzt diese Menge ermitteln zu können, muss man sich überlegen, ab welchem 
 |       | Nettoerlös/St. ($$ e $$)            | 15,00 €
 | $$-$$ | variable Kosten/St. ($$ k_v $$)     | 8,00 €
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**      | **7,00 €**
-| $$*$$ | Produktionsmenge ($$ m $$)          | 10.000 St.
+| $$*$$ | Produktionsmenge ($$ m $$)          | 1.000 St.
 | $$=$$ | **Deckungsbeitrag ($$ DB $$)**      | **7.000,00 €**
 | $$-$$ | Fixkosten ($$ K_f $$)               | 5.000,00 €
 | $$=$$ | **Betriebsergebnis ($$ BE $$)**     | **2.000,00 €**
 
-Man stellt sich also nun die Frage: *Ab wann erziehlen wir Gewinn?* Einfacher ausgedrückt suchen wir die Menge, bei der unser Betriebsergebnis neutral - also Null ist.
+Man stellt sich also nun die Frage: *Ab wann erzielen wir Gewinn?* Einfacher ausgedrückt suchen wir die Menge, bei der unser Betriebsergebnis neutral - also Null ist.
 Es gilt somit:
 
 $$ BE = 0,00€ $$
@@ -52,7 +52,7 @@ $$ m_{BEP} = \frac{5.000,00}{7,00} \approx 714,29 $$
 > **Achtung!**  
 > Sollte als Gewinnschwellenmenge keine ganze Zahl ermittelt werden, so muss **immer aufgerundet** werden!
 
-In diesem Beispiel würde das Unternehmen also ab einer produzierten Menge von 715 Packungen beginnen, Gewinn zu erziehlen. Unser Break Even Point liegt somit bei 715 Stück.
+In diesem Beispiel würde das Unternehmen also ab einer produzierten Menge von 715 Packungen beginnen, Gewinn zu erzielen. Unser Break Even Point liegt somit bei 715 Stück.
 
 Folgende Eigenschaften gelten dabei am BEP. Diese sollten - vor allem für anzufertigende Zeichnungen - immer im Hinterkopf behalten werden.
 * Das Betriebsergebnis ist neutral ($$ BE = 0,00€ $$)

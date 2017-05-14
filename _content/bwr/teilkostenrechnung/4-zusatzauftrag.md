@@ -16,10 +16,10 @@ excerpt: >
 > Kurzfristig erhalten wir einen Zusatzauftrag über 200 Packungen, allerdings nur, wenn wir dabei einen Preisnachlass von 20% geben.
 > Entscheiden Sie, ob wir diesen annehmen sollten.
 
-Zu Beginn muss erst mal geprüft werden, ob wir noch genügend Kapazitäten zur Verfügung haben, um diesen Aufgrag überhaupt zu stemmen.
+Zu Beginn muss erst mal geprüft werden, ob wir noch genügend Kapazitäten zur Verfügung haben, um diesen Auftrag überhaupt zu stemmen.
 Ist dies nicht der Fall, so können wir ihn direkt ablehnen.
 
-Die Berechnung userer freien Kapazitäten erfolgt so:
+Die Berechnung unserer freien Kapazitäten erfolgt so:
 
 $$ Kap_{gesamt} = \frac{1.000}{80 \%} = 1.250 St. $$
 

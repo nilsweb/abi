@@ -5,7 +5,7 @@ ref: TKR-8
 order: 8
 excerpt: >
     Ein Produkt mit negativem Deckungsbeitrag I wird immer eingestellt.
-    Sollte aber der Deckungsbeitrag II negativ sein, so bedarf diese Entscheidung einiger Kritierien.
+    Sollte aber der Deckungsbeitrag II negativ sein, so bedarf diese Entscheidung einiger Kriterien.
 ---
 
 Grundsätzlich gilt: Ein Produkt mit negativem $$ DB_I $$ wird immer eingestellt.
@@ -35,7 +35,7 @@ Deshalb bleibt ein Teil der erzeugnisfixen Kosten oftmals erhalten und geht dann
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle       | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | -------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          | 12,00 €         | 17,00 €        |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      | **8,00 €**      | **8,00 €**     |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 5.000 St.       | 1.000 St.       | 800 St.        |                 |
@@ -45,13 +45,13 @@ Deshalb bleibt ein Teil der erzeugnisfixen Kosten oftmals erhalten und geht dann
 | $$-$$ | Unternehmensfixe K. ($$ K_{fU} $$)     |                 |                 |                | 12.000,00 €     |
 | $$=$$ | **Betriebsergebnis ($$ BE $$)**        |                 |                 |                | **1.400,00 €**  |
 
-In dieser Rechnung ist klar erkennbar, dass die Tennisbälle einen negativen $$ DB_{II} $$ erziehlen. Grundsätzlich stellt sich jetzt die Frage: *Wie hoch muss der $$ DB_{II} $$ sein, damit wir daraus einen Vorteil erlangen?* Diese lässt sich relativ einfach beantworten. Ab dem Punkt, wo wir mit der Tennisballproduktion weniger Verlust als vorher machen. Dabei ist die Produktionseinstellung ohne Bedeutung, wenn wir jeweils den gleichen Verlust - hier -1.600,00 € - erzielen.
+In dieser Rechnung ist klar erkennbar, dass die Tennisbälle einen negativen $$ DB_{II} $$ erzielen. Grundsätzlich stellt sich jetzt die Frage: *Wie hoch muss der $$ DB_{II} $$ sein, damit wir daraus einen Vorteil erlangen?* Diese lässt sich relativ einfach beantworten. Ab dem Punkt, wo wir mit der Tennisballproduktion weniger Verlust als vorher machen. Dabei ist die Produktionseinstellung ohne Bedeutung, wenn wir jeweils den gleichen Verlust - hier -1.600,00 € - erzielen.
 
 Sehen wir uns also zuerst an, was passieren würde, wenn die Produktion eingestellt wird, die erzeugnisfixen Kosten allerdings erhalten bleiben.
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle       | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | -------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         |                 | 25,00 €        |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         |                 | 25,00 €        |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          |                 | 17,00 €        |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      |                 | **8,00 €**     |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 5.000 St.       |                 | 800 St.        |                 |
@@ -67,7 +67,7 @@ Sollten unsere erzeugnisfixen Kosten für die Tennisbälle soweit gesenkt werden
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle       | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | -------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         |                 | 25,00 €        |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         |                 | 25,00 €        |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          |                 | 17,00 €        |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      |                 | **8,00 €**     |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 5.000 St.       |                 | 800 St.        |                 |
@@ -99,7 +99,7 @@ Dies kann entweder zeitaufwendig über das Schema mit den neuen Werten oder mith
 $$ ΔBE = ΔK_{fE} - DB_I $$
 
 Auch diese Rechnung kann als Grundlage für die Begründung einer Produktionseinstellung herangezogen werden.
-Sollte sich das Beriebsergebnis verschlechtern, ist von einer Einstellung abzuraten.
+Sollte sich das Betriebsergebnis verschlechtern, ist von einer Einstellung abzuraten.
 Bei Verbesserung des Betriebsergebnisses ist die Einstellung vorteilhaft.
 
 > Wie würde sich unser Betriebsergebnis verändern, wenn sich die erzeugnisfixen Kosten der Tennisballproduktion um 85% senken ließen?

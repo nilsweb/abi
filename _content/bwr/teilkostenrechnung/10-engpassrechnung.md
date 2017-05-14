@@ -40,7 +40,7 @@ Sollte bereits angegeben sein, auf welcher Maschine ein Engpass besteht, so ist 
 | **frei**    | **6.000 Minuten** | **-2.000 Minuten** |
 
 Es liegt also ein Engpass auf Maschine M2 in Höhe von 2.000 Minuten vor. Für die folgenden Schritte müssen wir daher nur diese Maschine beachten.
-Sollte kein Enpass vorliegen, so müsste kein optimales Produktionsprogramm ermittelt werden, da alles produziert werden kann.
+Sollte kein Engpass vorliegen, so müsste kein optimales Produktionsprogramm ermittelt werden, da alles produziert werden kann.
 
 
 # Ermittlung des relativen Deckungsbeitrags und der Rangfolge
@@ -65,7 +65,7 @@ Wirtschaftlich gesehen sollten wir somit zuerst die Tennisbälle, anschließend 
 Nun haben wir alle Kriterien zusammen, um das optimale Produktionsprogramm zu ermitteln. Dies geschieht wie folgt:
 
 |             | Menge     | Zeit pro Stück | Zeit gesamt    | Restkapazität  |
-| ----------- | --------- | -------------- | -------------- | -------------- | 
+| ----------- | --------- | -------------- | -------------- | -------------- |
 | Kapazität   |           |                |                | 80.000 Minuten |
 | Tennisbälle | 3.000 St. | 4 Minuten      | 12.000 Minuten | 68.000 Minuten |
 | Fußbälle    | 2.000 St. | 5 Minuten      | 10.000 Minuten | 58.000 Minuten |
@@ -89,11 +89,11 @@ Es ist jetzt noch mal empfehlenswert, die jeweiligen Stückzahlen einmal sauber 
 
 > Ermitteln Sie auch das Betriebsergebnis.
 
-Sollte dieser Zusatz enthalten sein, so wird einfach eine Telkostenrechnung für die jeweils ermittelten Stückzahlen durchgeführt.
+Sollte dieser Zusatz enthalten sein, so wird einfach eine Teilkostenrechnung für die jeweils ermittelten Stückzahlen durchgeführt.
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle        | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | --------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €         |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €         |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          | 12,00 €         | 17,00 €         |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      | **8,00 €**      | **8,00 €**      |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 4.833 St.       | 3.000 St.       | 2.000 St.       |                 |
@@ -121,10 +121,10 @@ Dies muss dann bei der Ermittlung des Engpasses berücksichtigt werden.
 | Fußbälle    | 24.000 Minuten    | 10.000 Minuten     |
 | **frei**    | **5.400 Minuten** | **-2.360 Minuten** |
 
-Ebenso werden die Umrüstzeiten am Ende zur Ermittlungs des optimalen Produktionsprogramms miteinbezogen.
+Ebenso werden die Umrüstzeiten am Ende zur Ermittlung des optimalen Produktionsprogramms miteinbezogen.
 
 |             | Menge     | Zeit pro Stück | Zeit gesamt    | Restkapazität  |
-| ----------- | --------- | -------------- | -------------- | -------------- | 
+| ----------- | --------- | -------------- | -------------- | -------------- |
 | Kapazität   |           |                |                | 80.000 Minuten |
 | Tennisbälle | 3.000 St. | 4 Minuten      | 12.000 Minuten | 68.000 Minuten |
 | Umrüstung   |           |                | 180 Minuten    | 67.820 Minuten |
@@ -159,7 +159,7 @@ Daher werden die jeweiligen Lieferverpflichtungen unabhängig der ermittelten R�
 Das optimale Produktionsprogramm wird dann wie folgt ermittelt:
 
 |                    | Menge     | Zeit pro Stück | Zeit gesamt    | Restkapazität  |
-| ------------------ | --------- | -------------- | -------------- | -------------- | 
+| ------------------ | --------- | -------------- | -------------- | -------------- |
 | Kapazität          |           |                |                | 80.000 Minuten |
 | Tennisbälle (LV)   | 200 St.   | 4 Minuten      | 800 Minuten    | 79.200 Minuten |
 | Umrüstung          |           |                | 180 Minuten    | 79.020 Minuten |
@@ -170,7 +170,7 @@ Das optimale Produktionsprogramm wird dann wie folgt ermittelt:
 | Fußbälle (Rest)    | 968 St.   | 5 Minuten      | 4.840 Minuten  | 0 Minuten      |
 | Golfbälle (Rest)   | 0 St.     | 12 Minuten     | 0 Minuten      | 0 Minuten      |
 
-Somit kann es auch vorkommen, dass höherrangigere Produkte nicht vollständig produziert werden können.
+Somit kann es auch vorkommen, dass höherrangige Produkte nicht vollständig produziert werden können.
 Zu beachten ist auch noch, dass die Umrüstzeiten jeweils nur einmal berücksichtigt werden müssen, da wir später in unserer Produktion erst alle Tennisbälle,
 dann alle Fußbälle und zuletzt alle Golfbälle herstellen. Das optimale Produktionsprogramm sieht also so aus:
 

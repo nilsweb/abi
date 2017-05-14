@@ -24,7 +24,7 @@ Vergleicht man in diesem Beispiel die variablen Kosten pro Stück mit dem jeweil
 Allerdings handelt es sich dabei nicht um den vollständigen Gewinn pro Packung, da wir ja ebenso unsere Fixkosten decken müssen.
 Dabei trägt diese Differenz vollständig zur Deckung der Fixkosten bei und wird daher als Deckungsbeitrag bezeichnet.
 
-Möchte man nun den Deckungsbeitrag pro Packung ausrechenen, so kann dies mit folgendem Schema geschehen.
+Möchte man nun den Deckungsbeitrag pro Packung ausrechnen, so kann dies mit folgendem Schema geschehen.
 
 |       | Nettoerlös/St. ($$ e $$)            | 15,00 €
 | $$-$$ | variable Kosten/St. ($$ k_v $$)     | 8,00 €

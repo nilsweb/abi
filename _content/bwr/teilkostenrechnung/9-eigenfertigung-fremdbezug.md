@@ -25,7 +25,7 @@ excerpt: >
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle (EF)  | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | -------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          | 12,00 €         | 17,00 €        |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      | **8,00 €**      | **8,00 €**     |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 5.000 St.       | 2.000 St.       | 800 St.        |                 |
@@ -45,7 +45,7 @@ Die daraus resultierende Kostenersparnis von 2,00 € wirkt sich somit positiv a
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle (FB)  | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | -------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          | 12,00 €         | 15,00 €        |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      | **8,00 €**      | **10,00 €**    |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 5.000 St.       | 2.000 St.       | 800 St.        |                 |
@@ -70,7 +70,7 @@ Rechnet man dies im Schema einmal kurz durch, so erhält man folgendes Ergebnis:
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle (FB)  | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | -------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          | 12,00 €         | 20,00 €        |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      | **8,00 €**      | **5,00 €**     |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 5.000 St.       | 2.000 St.       | 800 St.        |                 |
@@ -95,7 +95,7 @@ Eine kurze Überprüfung über das Schema:
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle (FB)  | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | -------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          | 12,00 €         | 20,00 €        |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      | **8,00 €**      | **5,00 €**     |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 5.000 St.       | 2.000 St.       | 800 St.        |                 |
@@ -155,7 +155,7 @@ Es kann aber ebenso vorkommen, dass wir aktuell ein Produkt fremdbeziehen, welch
 > Wir überlegen daher, die Produktion selbst zu übernehmen, auch wenn dabei zusätzliche Fixkosten in Höhe von 3.000,00 € anfallen.
 > Ab welcher Menge wäre dies sinnvoll?
 
-Hierzu nehemn wir ebenso die bekannte Formel zur Berechnung der Grenzmenge her und setzen unsere Werte ein.
+Hierzu nehmen wir ebenso die bekannte Formel zur Berechnung der Grenzmenge her und setzen unsere Werte ein.
 
 $$ Δk_v = k_v - p = 17,00 - 20,00 = -3,00 € $$
 
@@ -201,7 +201,7 @@ Zur Erinnerung: Die Werte werden jeweils ohne Beachtung der Vorzeichen eingesetz
 
 Die Veränderung des Betriebsergebnisses lässt sich wie folgt berechnen. Dabei werden die Vorzeichnen jedoch berücksichtigt.
 
-$$ ΔBE = Δk_v * m + ΔK_{fE} $$ 
+$$ ΔBE = Δk_v * m + ΔK_{fE} $$
 
 
 # Abwandlung: Kostenvergleich zweier Maschinen
