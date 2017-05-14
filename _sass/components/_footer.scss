@@ -10,6 +10,11 @@
   height: 300px;
   background: $c__light-grey;
 
+  .last-update {
+    margin-top: 10px;
+    font-size: 12px;
+  }
+
   p {
     @include fs--meta;
   }
