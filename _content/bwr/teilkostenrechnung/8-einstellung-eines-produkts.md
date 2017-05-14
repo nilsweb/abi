@@ -1,7 +1,7 @@
 ---
 title: Einstellung eines Produkts
 date: 2017-04-22
-ref: TKR-8
+ref: TKR
 order: 8
 excerpt: >
     Ein Produkt mit negativem Deckungsbeitrag I wird immer eingestellt.

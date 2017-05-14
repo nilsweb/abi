@@ -1,7 +1,7 @@
 ---
 title: Deckungsbeitrag und Betriebsergebnis
 date: 2017-04-22
-ref: TKR-3
+ref: TKR
 order: 3
 excerpt: >
     Vorstellung des Schemas zur Berechnung des Deckungsbeitrags sowie des Betriebsergebnisses anhand einer Beispielaufgabe.

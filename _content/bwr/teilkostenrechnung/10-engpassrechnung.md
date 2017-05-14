@@ -1,7 +1,7 @@
 ---
 title: Engpassrechnung
 date: 2017-04-23
-ref: TKR-10
+ref: TKR
 order: 10
 excerpt: >
     Sollten wir aufgrund eines möglichen Engpasses nicht alle Produkte vollständig produzieren können, so gilt es, das optimale Produktionsprogramm zu ermitteln.

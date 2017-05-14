@@ -1,7 +1,7 @@
 ---
 title: Mehrstufige Teilkostenrechnung
 date: 2017-04-22
-ref: TKR-7
+ref: TKR
 order: 7
 excerpt: >
     Sollten wir ein Mehrproduktunternehmen vorliegen haben, in dem die Teilkostenrechnung zum Einsatz kommt, so sind hier ebenso einige Besonderheiten zu beachten.
@@ -28,7 +28,7 @@ Zur Lösung dieser Aufgabe wird nun unser bisheriges Schema einfach um die jewei
 
 |       |                                        | Golfbälle       | Tennisbälle     | Fußbälle       | Gesamt          |
 | ----- | -------------------------------------- | --------------- | --------------- | -------------- | --------------- |
-|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 | 
+|       | Nettoerlös/St. ($$ e $$)               | 15,00 €         | 20,00 €         | 25,00 €        |                 |
 | $$-$$ | variable Kosten/St. ($$ k_v $$)        | 8,00 €          | 12,00 €         | 17,00 €        |                 |
 | $$=$$ | **Deckungsbeitrag ($$ db $$)**         | **7,00 €**      | **8,00 €**      | **8,00 €**     |                 |
 | $$*$$ | Produktionsmenge ($$ m $$)             | 5.000 St.       | 1.000 St.       | 800 St.        |                 |

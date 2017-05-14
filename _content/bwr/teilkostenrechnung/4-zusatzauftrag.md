@@ -1,7 +1,7 @@
 ---
 title: Annahme eines Zusatzauftrags
 date: 2017-04-22
-ref: TKR-4
+ref: TKR
 order: 4
 excerpt: >
     Oft ist es von Vorteil, ein Produkt von außerhalb zu beziehen, anstatt es selbst herzustellen.

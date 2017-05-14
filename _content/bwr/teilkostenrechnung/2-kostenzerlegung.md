@@ -1,7 +1,7 @@
 ---
 title: Kostenzerlegung
 date: 2017-04-21
-ref: TKR-2
+ref: TKR
 order: 2
 excerpt: >
     In dieser Beispielaufgabe wird gezeigt, wie die Gesamtkosten in die Fixkosten und variablen Stückkosten zerlegt werden können.

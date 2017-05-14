@@ -1,7 +1,7 @@
 ---
 title: Teilkostenrechnung
 date: 2017-04-21
-ref: TKR-1
+ref: TKR
 order: 1
 excerpt: >
     Dieses Kapitel umfasst sämtliche Informationen zur Teilkostenrechnung bzw. Deckungsbeitragsrechnung.

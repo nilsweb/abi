@@ -1,7 +1,7 @@
 ---
 title: Eigenfertigung (Insourcing) vs. Fremdbezug (Outsourcing)
 date: 2017-04-23
-ref: TKR-9
+ref: TKR
 order: 9
 excerpt: >
     Oft ist es von Vorteil, ein Produkt von außerhalb zu beziehen, anstatt es selbst herzustellen.

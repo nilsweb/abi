@@ -1,7 +1,7 @@
 ---
 title: Unternehmensfixe und Erzeugnisfixe Kosten
 date: 2017-04-22
-ref: TKR-6
+ref: TKR
 order: 6
 ---
 
