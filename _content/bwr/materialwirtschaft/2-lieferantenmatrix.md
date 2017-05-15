@@ -53,6 +53,3 @@ $$ Punkte_{gesamt} = Gewichtung * Punkte_{einfach} $$
 
 Diese werden nun aufsummiert und miteinander verglichen.
 Der Anbieter mit der höheren Punktzahl (hier Angebot B) erhält den Auftrag.
-
-Es stellt sich nun nur noch die Frage, wie wir unsere Bestellung bei diesem Anbieter optimieren können.
-Dafür wird die [optimale Bestellmenge]({{ baseur }}/bwr/materialwirtschaft/3-optimale-bestellmenge/) herangezogen.
