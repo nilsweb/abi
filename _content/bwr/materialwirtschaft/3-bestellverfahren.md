@@ -106,7 +106,7 @@ $$ Höchstbestand = Mindesbestand + Bestellmenge $$
 Beim Bestellrhythmusverfahren hingegen ist die Bestellmenge variabel und der Bestellrhythmus fix.
 Der Verlauf des Lagerbestands kann dabei so aussehen:
 
-{% include vectors/bwr/materialwirtschaft/Bestellrhythmus.svg %}
+{% include vectors/bwr/materialwirtschaft/bestellrhythmus.svg %}
 
 Hier wird der Lagerbestand periodisch überprüft und anschließend eine Bestellung initiiert.
 Dabei ist der Tagesverbrauch nicht konstant, weshalb sich die Bestellmenge von Bestellung zu Bestellung unterscheidet.
