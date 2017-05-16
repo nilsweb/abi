@@ -77,7 +77,7 @@ Die vollständig beschriftete Zeichnung zu diesem Szenario sieht so aus:
 2. Bestellrhythmus/-intervall
 3. Bestellzeitpunkt
 4. Lieferzeitpunkt
-5. Sicherheitsbestand/Mindesbestand/eiserner Bestand
+5. Sicherheitsbestand/Mindestbestand/eiserner Bestand
 6. Meldebestand
 7. Höchstbestand
 8. Verbrauch zwischen Bestellung und Lieferung
@@ -89,7 +89,7 @@ $$ Bestellmenge = Höchstbestand - Sicherheitsbestand $$
 
 $$ Bestellrhythmus = \frac{Bestellmenge}{Tagesverbrauch} $$
 
-$$ Höchstbestand = Mindesbestand + Bestellmenge $$
+$$ Höchstbestand = Mindestbestand + Bestellmenge $$
 
 **Vorteile**
 - Lagerzugänge und Lagerabgänge erfolgen in gleichmäßig
@@ -129,4 +129,4 @@ $$ Höchstbestand = Sicherheitsbestand + (ÜZ + BZ) * ∅ Verbrauch $$
 
 ---
 [^1]: Zeitraum zwischen zwei Bestellungen
-[^2]: Dieser Bestand *muss* immer im Lager vorhanden sein und darf nur in absoluten Notfällen unterschritten werden. Er wird ebenfalls als eiserner Bestand oder Mindesbestand bezeichnet.
+[^2]: Dieser Bestand *muss* immer im Lager vorhanden sein und darf nur in absoluten Notfällen unterschritten werden. Er wird ebenfalls als eiserner Bestand oder Mindestbestand bezeichnet.

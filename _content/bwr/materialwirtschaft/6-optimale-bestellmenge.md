@@ -24,7 +24,7 @@ Dabei ist es in der Praxis meist schwierig, dies umzusetzen, da Lieferanten oft 
 > Ermitteln Sie die optimale Bestellmenge.
 
 Hierfür macht man sich eine Tabelle und rechnet für jede Menge einmal durch.
-Zur Berechnung der optimalen Bestellmenge wird der Mindesbestand *nicht* berücksichtigt.
+Zur Berechnung der optimalen Bestellmenge wird der Mindestbestand *nicht* berücksichtigt.
 Aufgrund der besseren Übersicht werden folgende Abkürzungen verwendet:
 
 | ∅ Lagerbestand          | = | ∅ LB |

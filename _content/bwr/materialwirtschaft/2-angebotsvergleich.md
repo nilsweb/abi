@@ -11,7 +11,7 @@ Im Folgenden wird der rechnerische Angebotsvergleich vorgestellt.
 Dabei wird für das Angebot mit den geringsten Kosten entschieden.
 
 > **Aufgabe**  
-> Wir erhalten für Kunstoffgranulat folgende Angebote:
+> Wir erhalten für Kunststoffgranulat folgende Angebote:
 > <br><br>
 >
 > |                 | Angebot A | Angebot B |

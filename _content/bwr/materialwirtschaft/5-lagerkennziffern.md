@@ -12,7 +12,7 @@ Bei allen Rechnungen werden die Prozentsätze der Einfachheit halber als Dezimal
 
 Dieser gibt an, wie viele Vorräte wir durchschnittlich Lagern.
 
-$$ ∅ Lagerbestand = \frac{Bestellmenge}{2} + Mindesbestand $$
+$$ ∅ Lagerbestand = \frac{Bestellmenge}{2} + Mindestbestand $$
 
 Sofern keine Informationen über die Bestellmenge bekannt sind, ließe sich diese auch so berechnen:
 
@@ -34,7 +34,7 @@ $$ ∅ Lagerbestand_€ = ∅ Lagerbestand_{St.} * Bezugspreis_{pro \ Stück} $$
 **Bewertung**  
 Je geringer der Lagerbestand, desto weniger Kosten fallen für das Lager an.
 Ein kleiner Lagerbestand ist somit erstrebenswert.
-Erreichbar ist dies durch Just-in-Time-Belieferung, kleine Bestellmengen oder einen geringen Mindesbestand.
+Erreichbar ist dies durch Just-in-Time-Belieferung, kleine Bestellmengen oder einen geringen Mindestbestand.
 
 
 # Umschlagshäufigkeit
@@ -47,7 +47,7 @@ Eine Umschlagshäufigkeit von 5 würde bedeuten, dass der betrachtete Stoff drei
 
 **Bewertung**  
 Eine höhere Umschlagshäufigkeit ist vorteilhaft.
-Ebenfalls lässt sich das durch einen geringeren Mindesbestand sowie kürzere Beschaffungsintervalle erreichen.
+Ebenfalls lässt sich das durch einen geringeren Mindestbestand sowie kürzere Beschaffungsintervalle erreichen.
 Eine weitere Möglichkeit wäre es, durch Sonderverkaufsaktionen und Marketing-Maßnahmen die Produktion und somit den Verbrauch anzukurbeln.
 
 
@@ -97,7 +97,7 @@ $$ Lagerkosten = ∅ Lagerbestand_€ * Lagerkostensatz $$
 Die Lagerhaltungskosten ist die Summe aus Lagerkosten und Zinskosten.
 Die Prozentsätze können ebenfalls addiert werden, da sie sich auf den selben Grundwert beziehen.
 
-$$ Lagerhaltungskostensatz = Lagerkostensatz + Lagersinssatz $$
+$$ Lagerhaltungskostensatz = Lagerkostensatz + Lagerzinssatz $$
 
 Gleiches gilt auch für die Euro-Beträge:
 

@@ -9,7 +9,7 @@ Sollen mehrere Faktoren bei der Entscheidung der Bezugsquelle einbezogen werden,
 Dazu werden die Lieferanten anhand verschiedener Kriterien wie z. B. Preis, Qualität, Nachhaltigkeit, Zuverlässigkeit, etc. beurteilt, welche unterschiedliche Gewichtung erhalten.
 
 > **Aufgabe**  
-> Wir erhalten für Kunstoffgranulat folgende Angebote:
+> Wir erhalten für Kunststoffgranulat folgende Angebote:
 > <br><br>
 >
 > |                 | Angebot A | Angebot B |

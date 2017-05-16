@@ -7,7 +7,6 @@
         <text style="line-height:125%;-inkscape-font-specification:Roboto;text-align:end" x="164.671" y="357.418" font-weight="400" font-size="40" font-family="Roboto" letter-spacing="0" word-spacing="0" text-anchor="end" fill-opacity=".698">
             <tspan x="164.671" y="357.418" style="-inkscape-font-specification:Roboto;text-align:end" font-size="15">20</tspan>
         </text>
-        <text style="line-height:125%" x="208.83" y="355.845" font-weight="400" font-size="40" font-family="sans-serif" letter-spacing="0" word-spacing="0"/>
         <text style="line-height:125%;-inkscape-font-specification:Roboto;text-align:end" x="217.962" y="357.114" font-weight="400" font-size="40" font-family="Roboto" letter-spacing="0" word-spacing="0" text-anchor="end" fill-opacity=".698">
             <tspan x="217.962" y="357.114" style="-inkscape-font-specification:Roboto;text-align:end" font-size="15">30</tspan>
         </text>
@@ -44,7 +43,7 @@
         <text y="170.403" x="45.728" style="line-height:125%;-inkscape-font-specification:Roboto;text-align:end" font-weight="400" font-size="40" font-family="Roboto" letter-spacing="0" word-spacing="0" text-anchor="end" fill-opacity=".698">
             <tspan style="-inkscape-font-specification:Roboto;text-align:end" y="170.403" x="45.728" font-size="15">1000</tspan>
         </text>
-        <path d="M50.714 164.505L155.973 341.56V164.505L257.759 341.56V164.505l93.928 177.054V164.505l95 177.054V164.505l21.393 37.054" fill="none" stroke="red" stroke-opacity=".698"/>
+        <path d="M50.714 201.901L155.973 341.56V201.901L257.759 341.56V201.901l93.928 139.658V201.901l95 139.658V201.901l21.393 37.054" fill="none" stroke="red" stroke-opacity=".698"/>
         <circle cx="155.846" cy="340.894" r="2.13"/>
         <circle r="2.13" cy="320.81" cx="143.674"/>
         <text style="line-height:125%;-inkscape-font-specification:Roboto;text-align:end" x="138.68" y="323.633" font-weight="400" font-size="8.75" font-family="Roboto" letter-spacing="0" word-spacing="0" text-anchor="end" fill-opacity=".698">
