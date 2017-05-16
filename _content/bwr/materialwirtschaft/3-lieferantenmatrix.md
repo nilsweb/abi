@@ -2,7 +2,7 @@
 title: Lieferantenmatrix
 date: 2017-05-14
 ref: MAT
-order: 2
+order: 3
 ---
 
 Sollen mehrere Faktoren bei der Entscheidung der Bezugsquelle einbezogen werden, so ist die Lieferantenmatrix zur Bewertung zu verwenden.
@@ -32,7 +32,7 @@ Dazu werden die Lieferanten anhand verschiedener Kriterien wie z. B. Preis, Qual
 > <br><br>
 > Ermitteln Sie, welches Angebot bevorzugt werden soll.
 
-Aus dem vorher durchgeführten [Angebotsvergleich]({{ baseurl }}/bwr/materialwirtschaft/1-angebotsvergleich/) ist uns bekannt, dass Angebot A (882,00 €) günstiger als Angebot B (964,00 €) ist.
+Aus dem vorher durchgeführten [Angebotsvergleich]({{ baseurl }}/bwr/materialwirtschaft/2-angebotsvergleich/) ist uns bekannt, dass Angebot A (882,00 €) günstiger als Angebot B (964,00 €) ist.
 
 Die Lieferantenmatrix sähe für dieses Beispiel so aus:
 

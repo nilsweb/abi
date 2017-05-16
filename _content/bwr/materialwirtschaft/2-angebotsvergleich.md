@@ -2,7 +2,7 @@
 title: Angebotsvergleich
 date: 2017-05-14
 ref: MAT
-order: 1
+order: 2
 ---
 
 Die Materialwirtschaft beschäftigt sich im Allgemeinen mit der Optimierung der Lagerhaltung sowie des Beschaffungsprozesses.
@@ -38,4 +38,4 @@ Zur Lösung dieser Aufgabe wir das bereits bekannte Schema der Angebotskalkulati
 
 Die Entscheidung entfällt also rechnerisch gesehen auf Angebot A.
 Dabei werden Faktoren wie Qualität, Zuverlässigkeit, Nachhaltigkeit, etc. nicht berücksichtigt.
-Um auch nach diesen Kriterien zu unterscheiden wird der Mehrfaktorenvergleich anhand der [Lieferantenmatrix](/abi/bwr/materialwirtschaft/2-lieferantenmatrix/) verwendet.
+Um auch nach diesen Kriterien zu unterscheiden wird der Mehrfaktorenvergleich anhand der [Lieferantenmatrix](/abi/bwr/materialwirtschaft/3-lieferantenmatrix/) verwendet.

@@ -2,7 +2,7 @@
 title: Bestellverfahren
 date: 2017-05-14
 ref: MAT
-order: 3
+order: 4
 ---
 
 Bei der Bestellplanung gibt es zwei relativ ähnliche Verfahren, die angewandt werden können.

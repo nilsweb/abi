@@ -2,7 +2,7 @@
 title: Lagerkennziffern
 date: 2017-05-15
 ref: MAT
-order: 4
+order: 5
 ---
 
 Um die Lagerhaltung zu optimieren werden verschiedene Lagerkennziffern zur Beurteilung herangezogen.

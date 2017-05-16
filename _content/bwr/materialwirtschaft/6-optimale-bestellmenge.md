@@ -2,7 +2,7 @@
 title: Optimale Bestellmenge
 date: 2017-05-15
 ref: MAT
-order: 5
+order: 6
 ---
 
 Um das Lager weiter zu optimieren, wird versucht, die bestmögliche Bestellmenge zu bestellen.
