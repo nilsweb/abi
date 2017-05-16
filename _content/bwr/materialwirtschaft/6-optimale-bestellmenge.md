@@ -56,3 +56,7 @@ $$ optimale \ Bestellmenge = \sqrt{ \frac{2 * Jahresbedarf * fixe \ Bestellkost
 Für das obige Beispiel ergibt sich somit:
 
 $$ optimale \ Bestellmenge = \sqrt{ \frac{2 * 1000 * 100,00}{20,00 * 25%} } = 200kg $$
+
+Grafisch gesehen entsteht folgendes Bild:
+
+{% include vectors/bwr/materialwirtschaft/optimale_bestellmenge.svg %}
